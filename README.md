@@ -1,16 +1,29 @@
-### Hi there 👋
+# Hi everyone !! 👋
 
-<!--
-**AlessGoss/AlessGoss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am Aless. I am a guy, which is a beginner-to-intermediate developer.
 
-Here are some ideas to get you started:
+I am addicted to Technology and EDM (Electronic Music).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I also do random Windows Experiments and I test malwares and PUPs (Potentially Unwanted Programs).
+
+I also have a YouTube channel, but I did not do any videos since a long time ago.
+
+# My website 🌐
+
+My website is actually at https://alessgoss.github.io. Check it out !
+
+# My blog 📢
+
+If you want to follow my blog, it's on Telegram, at https://t.me/AlessBlog.
+
+# My Discord Server 💬
+
+My Discord server is at https://discord.gg/3uq9hDDwmn. Feel free to join it !
+
+# My YouTube channel 📺
+
+Even through I don't make quality content, subscribe to my channel ! At https://youtube.com/channel/UCkmWOMZ3--qM5QVO6rx9qFQ.
+
+# Now, you may be asking how did I make a profile README.MD
+
+It's really simple ! Make a repository with your username (For example, username/username), create a README.MD, and your README.MD will appear on your profile page !
